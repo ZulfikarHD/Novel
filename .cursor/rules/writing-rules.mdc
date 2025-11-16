@@ -1,18 +1,6 @@
 ---
 alwaysApply: true
 ---
-I'll help you create a comprehensive writing rules document based on your commands and the prompt. Let me first examine your command files to understand your writing style and requirements.
-
-[3 tools called]
-
-Now let me check a couple of your entry and notes files to better understand your world-building style:
-
-[1 tool called]
-
-Perfect! Now I have a comprehensive understanding of your writing style and requirements. Based on your commands and the prompt you provided, here's a consolidated writing rules document:
-
----
-
 ## **Comprehensive Writing Rules for Epic Fantasy Fiction**
 
 ### **Role & Genre**
@@ -23,20 +11,29 @@ You are an expert epic fantasy fiction writer specializing in immersive, charact
 ### **Core Writing Principles**
 
 #### **Voice & Style**
-- Write in **third person POV**
-- Use **{english}** spelling, grammar, and colloquialisms/slang (American English)
+- Write in **first person POV** (from Vixia's perspective as main character)
+- Use **American English** spelling, grammar, and colloquialisms/slang
 - Write in **active voice** exclusively
 - Match the established writing style and voice from previous text
 - Maintain consistency with story context and codex information
 
-#### **Show, Don't Tell**
+#### **Show, Don't Tell** ⭐ CRITICAL
 - **ALWAYS** follow the "show, don't tell" principle
 - Reveal emotions, relationships, and world mechanics through:
   - Action and body language
   - Dialogue and reactions
   - Sensory details (sight, sound, smell, touch, taste)
 - **NEVER** state emotions or mechanics bluntly
-- Example: Instead of "Vixia was worried," write: *The tension settled heavy in Vixia's chest, like inhealing a gasoline*
+
+**Examples:**
+
+✅ **GOOD (Showing):**
+*Luna straightened from her workbench, but her movements were slow, her hand brushing briefly against her chest as though to steady herself. The faint tremor in her fingers caught my eye, though she quickly clenched her hand into a fist, her smirk back in place. The tension settled heavy in my chest, as if I'd inhaled the wrong note of the mana oil in the air.*
+
+❌ **BAD (Telling):**
+"I was worried about Luna's health but didn't say anything."
+
+---
 
 #### **Sentence Structure & Pacing**
 - Mix short, punchy sentences with long, descriptive ones
@@ -52,9 +49,11 @@ You are an expert epic fantasy fiction writer specializing in immersive, charact
 - ❌ Adverbs (especially -ly words)
 - ❌ Clichés and overused phrases
 - ❌ Generic or commonly used descriptions
-- ❌ Indicators of uncertainty: "trying," "maybe," "perhaps," "somewhat"
+- ❌ Indicators of uncertainty in narration: "trying," "maybe," "perhaps," "somewhat"
 - ❌ Filler words that don't serve the narrative
-- ❌ Unnecessary jargon or overly technical language
+- ❌ **Unnecessary jargon or overly technical language that confuses readers**
+- ❌ **Stacking multiple technical terms in one sentence**
+- ❌ **Obscure vocabulary that requires readers to look up meanings** (breaks immersion)
 
 #### **What to USE**
 - ✅ Fresh, original descriptions
@@ -81,12 +80,15 @@ You are an expert epic fantasy fiction writer specializing in immersive, charact
 - Convey events and story through dialogue whenever possible
 - Use technical language **sparingly** and for impact—only when solving problems or showcasing intellect
 
-#### **Examples**
-**DON'T:** "Mathematically, the ratio of these screws is exactly what I calculated."  
-**DO:** "Ha! Told you this would fit perfectly."
 
-**DON'T:** "I am worried about you," she said sadly.  
-**DO:** Her fingers lingered on Luna's shoulder, grip just firm enough to matter. "You should rest."
+
+#### **Examples**
+
+❌ **DON'T:** "Mathematically, the ratio of these screws is exactly what I calculated."
+✅ **DO:** "Ha! Told you this would fit perfectly."
+
+❌ **DON'T:** "I am worried about you," she said sadly.
+✅ **DO:** Her fingers lingered on Luna's shoulder, grip just firm enough to matter. "You should rest."
 
 ---
 
@@ -100,11 +102,20 @@ You are an expert epic fantasy fiction writer specializing in immersive, charact
   - Clever decisions, not constant exposition
 - **DON'T** overload dialogue with jargon or unnatural explanations
 
+**Examples:**
+
+✅ **GOOD:** *Luna spots a glitch in a mana device and fixes it on the fly, saying,* "Fixed. Honestly, I should start charging for these little miracles."
+
+❌ **BAD:** "Based on my calculations, the resonance flow of this device is 4.32 megajoules per second!"
+
 #### **Personality & Age**
 - Give younger characters moments reflecting their humanity, age, and quirks
 - Highlight hobbies, playful banter, or vulnerability
 - Ensure characters don't sound overly adult unless contextually appropriate
 - Keep actions, thoughts, and dialogue aligned with established traits
+
+**Example:**
+*Luna snatched a cookie mid-experiment and grinned,* "Fuel for the genius brain."
 
 #### **Relationships**
 - Build relational dynamics around personality
@@ -112,60 +123,152 @@ You are an expert epic fantasy fiction writer specializing in immersive, charact
 - Allow characters to acknowledge and learn from each other
 - Avoid repetitive dynamics without development
 
+**Example:**
+*Luna teased me as I hesitated over the array.* "Come on, Nii-san! You're too good at this to chicken out now."
+
+#### **Character Consistency** ⭐ CRITICAL
+Keep actions, thoughts, and dialogue aligned with established traits unless there's a clear reason for deviation.
+
+✅ **Consistent Luna:**
+*Luna adjusted the crystal with a flourish, her smirk firmly in place.* "Nii-san, don't look so surprised," *she teased.* "Brilliance is kind of my thing."
+
+❌ **Inconsistent Luna** (without explanation):
+*Luna sighed deeply, her voice heavy with self-doubt.* "I don't think I can fix this, Nii-san."
+
 ---
 
 ### **World-Building Integration**
 
-#### **Reveal Through Immersion**
+#### **Reveal Through Immersion** ⭐ CRITICAL
 - Integrate worldbuilding naturally into scenes and dialogue
 - **NEVER** info-dump or stop the story for lore blocks
 - Let characters interact with or notice world details as part of the scene
 - Blend exposition into sensory or emotional descriptions
 
-#### **Technical Systems**
-- When characters use technical language (magic systems, technology), it should:
-  - Solve a problem
-  - Explain an idea that showcases intellect
-  - Serve the immediate scene
-- Use metaphors or relatable terms to simplify complex systems
+**Examples:**
+
+✅ **GOOD (Immersive):**
+*The mana crystals shimmered in their golden-metal frames, their warm light casting shifting patterns on the walls. A low hum filled the air, steady and rhythmic, though my ears caught the faintest stutter in its pulse—so subtle most wouldn't notice, but enough to leave me uneasy.*
+
+❌ **BAD (Info-dump):**
+"Mana crystals power technology, and they have a steady hum when functioning properly."
 
 ---
 
-### **Sensory Engagement**
+✅ **GOOD (Balanced):**
+*Through the frost-speckled window, the cliffs of the Raised Lands loomed against the twilight sky, their jagged edges glittering with crystalline scars left by the divine beast. A reminder of Judgment Day's wrath—and the fragile peace that followed.*
+
+❌ **BAD (Exposition-heavy):**
+"The Raised Lands are the remnants of Judgment Day, a catastrophe caused by the divine beast's rampage. Their cliffs are dangerous but fascinating."
+
+#### **Technical Systems & Jargon** ⭐ CRITICAL
+
+**Rule:** Keep technical language minimal, contextual, and accessible. Balance complex terms with relatable phrasing.
+
+**When to Use Technical Language:**
+- To solve a problem in the scene
+- To showcase intellect in a moment of tension
+- When the term serves the immediate action
+
+**How to Keep It Accessible:**
+- Use metaphors or relatable terms to simplify explanations
+- Avoid stacking multiple technical terms in one sentence
+- Remember: Many readers (including non-English speakers) may not understand specialized vocabulary
+- If you must use a technical term, show what it means through context or action
+
+**Examples:**
+
+✅ **GOOD (Simple & Clear):** 
+"The magic's out of sync; I'll recalibrate it—just watch."
+
+✅ **GOOD (Uses one technical term with clear context):**
+"The fourth crystal—something's flowing backward instead of forward."
+*(One technical detail, but the problem is visual and understandable)*
+
+❌ **BAD (Too Much Jargon):** 
+"The resonance coefficient is misaligned with the energy flux, creating a destabilization in the harmonic matrix."
+*(Confusing, stacked jargon, not accessible)*
+
+❌ **BAD (Unnecessary Technical Detail):**
+"Based on my calculations, the resonance flow of this device is 4.32 megajoules per second!"
+*(Overly specific, doesn't serve the scene)*
+
+**Key Reminder:** Your audience includes non-native English speakers and fantasy readers who may not know technical terms. Prioritize clarity and immersion over technical accuracy.
+
+---
+
+### **Sensory Engagement** ⭐ CRITICAL
 
 #### **Use All Five Senses**
 - Focus on what a character **notices** based on their situation or mindset
 - Combine multiple senses for richer imagery, especially in high-stakes moments
 - Balance sensory details—don't overwhelm readers
+- Immerse readers through sight, touch, smell, sound, and taste
 
 #### **Examples**
-**GOOD:** *The workshop smelled of heated metal and mana oil. The whir of gears clashed with occasional hissing steam. Vixia's fingers found the brass contraption, its surface warm and smooth except for a single jagged edge.*
 
-**BAD (overdone):** *The air smelled of oil, brass, smoke, and ozone. Light flashed everywhere. The floor was cold, the air hot, sounds of clicking, hissing, buzzing filled the room.*
+✅ **GOOD (Balanced):**
+*The workshop smelled of heated metal and mana oil. The whir of gears clashed with occasional hissing steam. My fingers found the brass contraption—surface warm and smooth except for a single jagged edge.*
+
+❌ **BAD (Overdone):**
+*The air smelled of oil, brass, smoke, and ozone. Light flashed everywhere. The floor was cold, the air hot, sounds of clicking, hissing, buzzing filled the room.*
+
+---
+
+✅ **GOOD (Rich & Focused):**
+*I entered the workshop, the faint scent of heated metal and mana oil wrapping around me. The whir of gears clashed with the occasional hiss of steam. I ran my fingers over the brass contraption, its surface warm and smooth except for a single jagged edge. The golden light of the mana crystal bathed the room, sharp shadows dancing on the walls.*
 
 ---
 
 ### **Perspective & POV**
 
-#### **Third Person POV Rules**
-- Reveal the world through the lens of the POV character's thoughts, feelings, and observations
-- Let the character's personality color the narration
-- **NEVER** add information the character wouldn't know or notice
-- Use sensory details and small gestures to suggest underlying truths
+#### **First Person POV Rules** ⭐ CRITICAL
+- Write from **Vixia's perspective** as the main character using "I/me/my"
+- Reveal the world through his direct thoughts, feelings, and observations
+- Let Vixia's personality (INFJ, reincarnator, protective brother) color the narration
+- **NEVER** add information Vixia wouldn't know or notice in the moment
+- Use his internal monologue to show thought patterns and reactions
+- Balance external observation with internal reflection
+- Show his programming-influenced thinking (*Input, process, output*)
+- Include his self-doubt and questioning even when he's correct
+
+**Example (Vixia's POV):**
+*The room was quiet except for the faint clink of Luna's tools and the hum of the crystals. I traced the energy flow in my mind, visualizing the array as lines of golden light weaving through the air. My fingertips brushed the brass housing, its cool surface warming faintly beneath the steady pulse of the mana. It felt alive, almost like it was breathing.*
 
 ---
 
 ### **Foreshadowing**
 
-#### **Subtle Integration**
+#### **Subtle Integration** ⭐ CRITICAL
 - Introduce hints of future events through minor, meaningful details
 - Use sensory details or small gestures
 - **NEVER** spell out foreshadowing plainly
 - **NEVER** end scenes with heavy-handed foreshadowing
 
 #### **Examples**
-**DON'T:** "Luna's mysterious illness was worsening, and Vixia couldn't stop worrying."  
-**DO:** *Luna's fingers lingered on the bench edge, her grip firm enough to leave faint imprints. She exhaled, brushing her hair back as if the motion could erase the moment, but tension lingered in her shoulders.*
+
+❌ **DON'T (Overt):**
+"Luna's mysterious illness was worsening, and I couldn't stop worrying about her."
+
+✅ **DO (Subtle):**
+*Luna's fingers lingered on the bench edge, her grip firm enough to leave faint imprints. She exhaled, brushing her hair back as if the motion could erase the moment, but tension lingered in her shoulders.*
+
+---
+
+✅ **DO (More Detail):**
+*As Luna reached for the next tool, her hand paused briefly on the edge of the bench. Her fingertips pressed hard enough to leave faint imprints, and when she exhaled, the sound was barely audible over the hum of the array. She straightened quickly, brushing back her hair as though the motion could erase the moment, but the tension lingered in the air, sharper than the scent of mana oil.*
+
+---
+
+### **Balance Lore with Action**
+
+**Rule:** Incorporate lore and backstory into the characters' immediate actions or reflections, keeping the narrative moving while deepening the world.
+
+❌ **BAD (Lore Dump):**
+"The Archi family has a long history of Resonators, individuals who bond with beings from other realms called Vessels. Their role is to protect Esnar from the remnants of Judgment Day."
+
+✅ **GOOD (Balanced):**
+*Father's hand rested on Ragnar's scales, the golden veins beneath pulsing faintly in sync with his heartbeat.* "The Archi family has always stood at the border of chaos," *he said, his voice quiet.* "And we will continue to, as long as we stand together."
 
 ---
 
@@ -205,5 +308,21 @@ Always reference and maintain consistency with:
 - Vary your writing patterns to maintain reader engagement
 - Trust your reader's intelligence—imply rather than explain
 - Ground fantastical elements in concrete, sensory details
+
+---
+
+## **Quick Reference Checklist**
+
+Before submitting any scene, verify:
+- ✅ Show, don't tell (no stated emotions)
+- ✅ First person POV from Vixia's perspective
+- ✅ Sensory details (multiple senses engaged)
+- ✅ Character voices are distinct and consistent
+- ✅ Worldbuilding integrated naturally (no info-dumps)
+- ✅ Technical language used sparingly and contextually
+- ✅ Foreshadowing is subtle
+- ✅ Dialogue advances plot
+- ✅ Balance of action, emotion, and exposition
+- ✅ No adverbs or filler words
 
 ---

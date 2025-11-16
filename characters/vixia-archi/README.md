@@ -47,6 +47,16 @@ This folder contains complete character documentation for Vixia Archi, a 17-year
 - Speech patterns and key phrases
 - **Use when:** Writing dialogue and need his voice
 
+### 🎭 **persona.md** — Comprehensive Traits
+- Full personality breakdown with INFJ functions
+- All traits explained with context
+- Hidden heroism dream detailed
+- "Weird thing" pattern integrated
+- Relationship traits with Luna
+- Quick reference for writing scenes
+- Decision trees for different scenarios
+- **Use when:** Deep dive into personality or writing complex scenes
+
 ### 🔄 **communication_pattern.md** — The "Weird Thing" Cycle
 - Detailed breakdown of programming term → translation pattern
 - Why it matters for character development
@@ -62,8 +72,9 @@ This folder contains complete character documentation for Vixia Archi, a 17-year
 ### If you're writing a scene with Vixia:
 
 1. **Check card.md** for quick personality reminder
-2. **Check dialogue_snippets.md** for voice examples
-3. **Check communication_pattern.md** if he's explaining something technical
+2. **Check persona.md** for trait-specific behavior
+3. **Check dialogue_snippets.md** for voice examples
+4. **Check communication_pattern.md** if he's explaining something technical
 
 ### If you're planning his character arc:
 
