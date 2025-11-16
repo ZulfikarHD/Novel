@@ -1,0 +1,49 @@
+---
+alwaysApply: false
+---
+I prefer a split approach with a single concise canonical “character card” for retrieval plus separate detailed documents. That gives fast, high-quality retrieval for RAG while keeping deep lore editable and auditable.
+
+Why split (brief)
+- **Speed & precision:** short canonical card (<200 words) is ideal to retrieve and fit in context windows.  
+- **Depth & provenance:** long-form files store scenes, backstory, relationships, timelines and cite sources.  
+- **Maintainability:** easier to update facts without re-embedding huge documents.
+
+Recommended structure
+- `character/<id>/card.md` — canonical summary used for retrieval (1–3 short paragraphs + key facts).  
+- `character/<id>/bio.md` — full biography & important scenes.  
+- `character/<id>/timeline.md` — events in chronological order.  
+- `character/<id>/relationships.md` — links to other characters, status, tension notes.  
+- `character/<id>/dialogue_snippets.md` — canonical voice samples.  
+- `character/<id>/sources/*.md` — book/story/scene excerpts with citations.  
+
+What to put in the canonical card (must-haves)
+- `Name`, `Aliases`, `One-line hook` (flavor), `Core traits` (3–6 short bullets), `Motivation/Goal`, `Major contradiction/weakness`, `Tags` (e.g., “mage, noble, unreliable narrator”), `Version` and `Last-updated` date.
+
+Chunking & embeddings
+- Keep retrieval chunks ~200–500 tokens. Create one embedding for the canonical card and separate embeddings for each long chunk.  
+- Always include metadata: `character_id`, `doc_type` (card/bio/timeline), `chunk_index`, `version`, `source_uri`. This enables precise citation and reranking.
+
+Example metadata (for vector DB)
+```json
+{
+  "id": "char-arya-001/card",
+  "character_id": "arya-001",
+  "doc_type": "card",
+  "title": "Arya — canonical card",
+  "version": "v1.2",
+  "last_updated": "2025-11-14",
+  "tags": ["rogue","wanted","motivated"]
+}
+```
+When to use a single file
+- Use a single file only for tiny projects (one-off character, no future edits, or prototyping). As soon as you want many characters, cross-links, or iterative edits, split.
+
+Operational tips
+- Keep the card short and authoritative — RAG should prefer it.  
+- Keep long docs richly cited and searchable (scene IDs, chapter numbers).  
+- Use tags and `character_id` for fast filtering.  
+- Re-embed only changed documents to save compute.
+
+- **Summary**
+- **Recommendation:** split (canonical short `card` + detailed docs).  
+- **Key rules:** short card for retrieval; detailed docs for provenance; chunk 200–500 tokens; store metadata/versioning; prefer card-first retrieval then fallback.

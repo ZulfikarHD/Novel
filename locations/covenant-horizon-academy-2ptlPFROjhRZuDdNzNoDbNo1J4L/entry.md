@@ -1,0 +1,12 @@
+---
+type: location
+name: Covenant Horizon Academy
+color: null
+aliases: []
+tags:
+  - Academy
+alwaysIncludeInContext: false
+doNotTrack: false
+noAutoInclude: false
+fields: {}
+---
